@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\c#\CSharpTemelleri\CSharpTemelleri\bin\Debug\net9.0\01-Temeller-Ve-Veri-Tipleri.exe
+C:\Users\user\Desktop\c#\CSharpTemelleri\CSharpTemelleri\bin\Debug\net9.0\01-Temeller-Ve-Veri-Tipleri.deps.json
+C:\Users\user\Desktop\c#\CSharpTemelleri\CSharpTemelleri\bin\Debug\net9.0\01-Temeller-Ve-Veri-Tipleri.runtimeconfig.json
+C:\Users\user\Desktop\c#\CSharpTemelleri\CSharpTemelleri\bin\Debug\net9.0\01-Temeller-Ve-Veri-Tipleri.dll
+C:\Users\user\Desktop\c#\CSharpTemelleri\CSharpTemelleri\bin\Debug\net9.0\01-Temeller-Ve-Veri-Tipleri.pdb
+C:\Users\user\Desktop\c#\CSharpTemelleri\CSharpTemelleri\obj\Debug\net9.0\01-Temeller-Ve-Veri-Tipleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\c#\CSharpTemelleri\CSharpTemelleri\obj\Debug\net9.0\01-Temeller-Ve-Veri-Tipleri.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\c#\CSharpTemelleri\CSharpTemelleri\obj\Debug\net9.0\01-Temeller-Ve-Veri-Tipleri.AssemblyInfo.cs
+C:\Users\user\Desktop\c#\CSharpTemelleri\CSharpTemelleri\obj\Debug\net9.0\01-Temeller-Ve-Veri-Tipleri.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\c#\CSharpTemelleri\CSharpTemelleri\obj\Debug\net9.0\01-Temeller-Ve-Veri-Tipleri.dll
+C:\Users\user\Desktop\c#\CSharpTemelleri\CSharpTemelleri\obj\Debug\net9.0\refint\01-Temeller-Ve-Veri-Tipleri.dll
+C:\Users\user\Desktop\c#\CSharpTemelleri\CSharpTemelleri\obj\Debug\net9.0\01-Temeller-Ve-Veri-Tipleri.pdb
+C:\Users\user\Desktop\c#\CSharpTemelleri\CSharpTemelleri\obj\Debug\net9.0\01-Temeller-Ve-Veri-Tipleri.genruntimeconfig.cache
+C:\Users\user\Desktop\c#\CSharpTemelleri\CSharpTemelleri\obj\Debug\net9.0\ref\01-Temeller-Ve-Veri-Tipleri.dll
