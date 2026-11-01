@@ -1,0 +1,11 @@
+# Gizli anahtarlar ve konfigürasyon dosyaları
+*.env
+appsettings.Development.json
+secrets.json
+*.key
+*.pem
+
+# Derleme ve geçici klasörler
+bin/
+obj/
+.vs/
