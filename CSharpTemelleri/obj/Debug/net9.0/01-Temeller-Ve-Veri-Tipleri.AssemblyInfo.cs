@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("01-Temeller-Ve-Veri-Tipleri")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b8dd8d5f4f22b7fc539f551409b37d3814c1666b")]
 [assembly: System.Reflection.AssemblyProductAttribute("01-Temeller-Ve-Veri-Tipleri")]
 [assembly: System.Reflection.AssemblyTitleAttribute("01-Temeller-Ve-Veri-Tipleri")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

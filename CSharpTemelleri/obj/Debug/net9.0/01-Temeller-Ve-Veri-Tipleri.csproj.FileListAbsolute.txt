@@ -12,3 +12,4 @@ C:\Users\user\Desktop\c#\CSharpTemelleri\CSharpTemelleri\obj\Debug\net9.0\refint
 C:\Users\user\Desktop\c#\CSharpTemelleri\CSharpTemelleri\obj\Debug\net9.0\01-Temeller-Ve-Veri-Tipleri.pdb
 C:\Users\user\Desktop\c#\CSharpTemelleri\CSharpTemelleri\obj\Debug\net9.0\01-Temeller-Ve-Veri-Tipleri.genruntimeconfig.cache
 C:\Users\user\Desktop\c#\CSharpTemelleri\CSharpTemelleri\obj\Debug\net9.0\ref\01-Temeller-Ve-Veri-Tipleri.dll
+C:\Users\user\Desktop\c#\CSharpTemelleri\CSharpTemelleri\obj\Debug\net9.0\01-Temeller-Ve-Veri-Tipleri.sourcelink.json
