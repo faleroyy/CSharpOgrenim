@@ -268,20 +268,43 @@ void KurSistemi()
 
 }
 
-// İşaretsiz ve işaretli veri tipleri.
+void IsaretsizIsaretli()
+{
+    // İşaretsiz ve işaretli veri tipleri.
 
-// İşaretsiz Byte
-Console.WriteLine($"Min Value = {byte.MinValue}");
-Console.WriteLine($"Min Value = {byte.MaxValue}");
-// İşaretli Byte
-Console.WriteLine($"Min Value = {sbyte.MinValue}");
-Console.WriteLine($"Min Value = {sbyte.MaxValue}");
+    // İşaretsiz Byte
+    Console.WriteLine($"Min Value = {byte.MinValue}");
+    Console.WriteLine($"Min Value = {byte.MaxValue}");
+    // İşaretli Byte
+    Console.WriteLine($"Min Value = {sbyte.MinValue}");
+    Console.WriteLine($"Min Value = {sbyte.MaxValue}");
+}
+void DegerReferans()
+{
+    // Değer Tip
+    int num1 = 10;
+    int num2 = 20;
+    Console.WriteLine($"Metot Çağırısı öncesi num1={num1} num2={num2}");
+    SwapNumbers(num1, num2);
+    Console.WriteLine($"Metot Çağırısı sonrası num1={num1} num2={num2}");
 
+    // Referans Tip
+    int[] numbers = { 10, 20 };
+    Console.WriteLine($"Metot Çağırısı öncesi num1={num1} num2={num2}");
+    SwapArray(numbers);
+    Console.WriteLine($"Metot Çağırısı sonrası num1={numbers[0]} num2={numbers[1]}");
+    static void SwapArray(int[] numbers)
+    {
+        int temp = numbers[0];
+        numbers[0] = numbers[1];
+        numbers[1] = temp;
+    }
 
-
-
-
-
-
-
-
+    static void SwapNumbers(int a, int b)
+    {
+        int temp = a;
+        a = b;
+        b = temp;
+    }
+    Console.ReadKey();
+}
